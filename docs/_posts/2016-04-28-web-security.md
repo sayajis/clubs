@@ -2,20 +2,17 @@
 layout: post
 
 #event information
-title:  "Web Security"
-cover: "../assets/2017/web-secuirty.jpg"
-date:   2016-04-03
-start_time: "10:00"
-end_time: "17:00"
+title:  "Inagural Of the Club"
+cover: "../assets/2017/DSC_0142.jpg"
+date:   Wednesday, 31 August 2016
+
+
 
 #event organiser details
-organiser: "Nagaraj V"
+organiser: "Sayaji Shirke"
 
 categories: event
 
 ---
-
-Its very important that we keep up to date with web security. This talk will be a 7 hour introduction into the latest techniques about web security
-and how we can keep our data safe across Mobiles, Desktops and Tablets.
-
-Let me know if you would like to attend.
+we had inaugurated the Firefox Club in the campus with the help of Mr. Kartickeyan (Head, Tamilnadu Community, Firefox, India).The Principal, Head of Department of Computer Science and Head of the Department of Information and Technology and all the staffs of CSE Department showed their support with their presence in the inauguration program.
+ Mr. Kartickeyan declared the club open by signing the poster of the club which is followed by all the dignitaries.Later, he, talked about the club and how it will benefit the students which was followed up by an interactive session with them.Then in another session, with the core team, about the Club, we discussed the future of this Club and how we can plan subsequent events
