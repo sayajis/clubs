@@ -2,25 +2,22 @@
 layout: post
 
 #event information
-title:  "ReactJS"
-cover: "http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png"
-date:   2016-03-28
-start_time: "12:00"
-end_time: "13:00"
+title:  "What is KCG FSA club?"
+cover: ""
+date:   2017-01-31
+start_time: "11:00"
+end_time: "14:00"
 
 #event organiser details
-organiser: "Prasanth P"
+organiser: "SAYAJI SHIRKE"
 
 categories: event
 
 ---
+Firefox Student Ambassadors are individuals who are passionate about Mozilla, the open web, and the many benefits of Firefox and its products..
+They are a global pack of volunteers and dedicated defenders of the Web! Creative and resourceful, FSAs lead campaigns and projects at their colleges and in their communities to encourage others to contribute to the Mozilla mission and utilize our products. Not just that, Firefox Student Ambassadors are web educators and strives to keep the power of the Web in hands of users everywhere.
+Student Ambassadors are given the opportunity to learn new skills, earn recognition, and advance their leadership in not just the Mozilla community, but in their school and local community.
+While our Student Ambassadors promote our products, they are also on a mission to promote openness, innovation, and opportunity on the Web. They throw events teaching people  how to code, build apps, and create awesome things online. They are web educators and seek to help people of all age and race. 
+Firefox Student Ambassadors work towards and educate others about Mozilla's mission.
 
-I will be doing a small talk on an Introduction into ReactJS. We will cover the following:
-
-- What is React?
-- How to get setup with React.
-- How to get building React Apps.
-- Bundle your application
-- Release your application
-
-If this sounds interesting please register your interest below.
+Firefox Student Ambassadors have a purpose, a mission, and a whole lot of heart! Each day this program grows and we become closer and closer to changing the world.
