@@ -1,6 +1,6 @@
 ---
 layout: page
-title: sayaji
+title: Blog
 navigation_title: Blog
 permalink: /blog/
 cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
