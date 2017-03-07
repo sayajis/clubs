@@ -6,6 +6,8 @@ title:  "Inagural Of the Club"
 cover: "../assets/2017/DSC_0142.jpg"
 date:   Wednesday, 31 August 2016
 
+From:"10:20am"
+
 
 
 #event organiser details
