@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MozillaTN Club Name</title>
-    <description>MozillaTN ClubName is club under MozillaTN community actively contributing to various contribution of mozilla.
+    <title>KCG Campus Club</title>
+    <description>KCG Campus Club is club under MozillaTN community actively contributing to various contribution of mozilla.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
@@ -11,8 +11,8 @@
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Docker</title>
-        <description>&lt;p&gt;Its everywhere. Docker, Docker, Docker! If your an expert or new to Docker come to my 3 hour training session.&lt;/p&gt;
+        <title>Hackathon</title>
+        <description>&lt;p&gt;A hackathon (also known as a hack day, hackfest or codefest) is a design sprint-like event in which computer programmers and others involved in software development, including graphic designers, interface designers, project managers, and others, often including subject-matter-experts, collaborate intensively on software projects. Occasionally, there is a hardware component as well. Hackathons typically last between a day and a week.&lt;/p&gt;
 
 &lt;p&gt;I will also provide cake!&lt;/p&gt;
 
